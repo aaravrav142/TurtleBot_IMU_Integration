@@ -1,0 +1,7 @@
+<launch>
+  <node name="odom_sync" pkg="mypack" type="odomsync.py"/>
+  <!--node name="command" pkg="mypack" type="command.py"/-->
+  <node name="euler_pub" pkg="mypack" type="publisheuler.py"/>
+  <node name="trajectory" pkg="mypack" type="trajectory.py"/>
+  <!--include file="$(find robot_localization)/launch/my_ekf.launch"/-->
+</launch>
