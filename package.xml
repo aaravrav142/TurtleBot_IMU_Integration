@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package>
-  <name>mypack</name>
+  <name>turtlebot_IMU_integration</name>
   <version>0.0.0</version>
-  <description>The mypack package</description>
+  <description>The turtlebot_IMU_integration package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 
   <!-- Example:  -->
