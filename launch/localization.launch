@@ -1,4 +1,4 @@
-<!-- Launch file for ekf_localization_node -->
+<!-- This launch file assumes that the robot is publishing on /odom and an IMU is publishing on /imu.  It also assumes navigation is in the odom frame and there is no map frame. -->
 
 <launch>
 
