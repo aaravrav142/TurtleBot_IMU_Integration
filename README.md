@@ -2,7 +2,7 @@
 
 TurtleBot IMU Integration
 2016-03-18 00:00:00 +0000
-
+(Originally from : http://therrma2.github.io/TimHerrmannPortfolio/projects/TurtleBotIMU/)
 Overview
 
 The goal of this project was install an IMU on the TurtleBot and fuse the IMU sensor data with existing odometry data to gather a more accurate pose estimate. In doing so, I was able to develop knowledge, experience, and skills pertaining to the following topics:
